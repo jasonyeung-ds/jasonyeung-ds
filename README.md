@@ -2,7 +2,7 @@
 
 Aspiring data scientist. I like working with data, finding patterns, and building models that answer real questions.
 
-Currently learning: Machine Learning
+Currently learning: Machine Learning, Refining Python Skills
 
 ## Skills
 
