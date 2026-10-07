@@ -10,8 +10,7 @@ CS senior at UAFS connecting mobile apps, backends, and ML models into working p
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🚀 **Now:** building [ScanShare](LINK_TO_REPO), an iOS app that recognizes campus landmarks with computer vision + GPS so students can share videos tied to them. I'm wiring the app, backend, and ML model together.
+🚀 **Now:** building [ScanShare], an iOS app that recognizes campus landmarks with computer vision + GPS so students can share videos tied to them. I'm wiring the app, backend, and ML model together.
 
-📊 **Also:** [Supply Chain Analytics](LINK_TO_REPO) · K-Means clustering, ANOVA, and visualizations in Python
 
-🔗 [linkedin.com/in/YOUR-HANDLE](www.linkedin.com/in/jason-yeung-b6131b26a) · jasonvyeung@gmail.com
+🔗 [www.linkedin.com/in/jason-yeung-b6131b26a]
